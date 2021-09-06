@@ -80,3 +80,5 @@ venv/
 db.sqLite3
 
 .idea/
+
+__pycache__/
